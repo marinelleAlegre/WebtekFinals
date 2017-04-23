@@ -2,33 +2,31 @@
 <html lang="en">
 
 <head>
-    <title>Home</title>
-    <link rel="stylesheet" href="styles/general.css">
-    <link rel="stylesheet" href="styles/navigation.css">
-    <Link rel="icon" href="images/icon.png">
+    <title>Pawgram | Login</title>
+    <link rel="stylesheet" href="styles/style.css" />
+    <Link rel="icon" href="images/icon.png" />
 </head>
 
-<div id = "nav">
-        <nav>
-            <ul class="nav nav-right nav-fixed">
-                <li><a href="about.html">OUR TEAM</a></li>
-                <li><a href="contact.html">CONTACT</a></li>
-                <li><a href="store.html">STORE</a></li>
-                <li><a href="photography.html">PHOTOGRAPHY</a></li>
-                <li><a href="services.html">SERVICES</a></li>
-                
-                </li>
-                <li><a href="index.html">Home</a></li>
-            </ul>
-        </nav>
-</div>
-<div class="main">
-  <div class="login-box">
-    <div class="info">Login</div>
-    <form action="#" method="post" class="form-box">
-      <input type="text" name="username" class="inp" placeholder="username" required><br>
-      <input type="password" name="pass" class="inp" placeholder="password" required><br>
-      <input type="checkbox" name="rem" class="rem"><span>Remember me</span>
-      <a href="#" class="f-pass">Forgot Password</a>
-      <input type="button" value="Login" class="sub-btn"> <br>
+<body>
+  <div id = "nav">
+    <nav>
+      <ul class="nav nav-right nav-fixed">
+        <li><a href="about.html">OUR TEAM</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="store.html">STORE</a></li>
+        <li><a href="photography.html">PHOTOGRAPHY</a></li>
+        <li><a href="services.html">SERVICES</a></li>
+        <li><a href="index.html">Home</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="login">
+    <h1>Login</h1>
+    <form method="post">
+      <input type="text" name="u" placeholder="Username" required="required" />
+      <input type="password" name="p" placeholder="Password" required="required" />
+      <button type="submit" class="btn btn-primary btn-block btn-large">Login</button>
     </form>
+  </div>
+</body>
