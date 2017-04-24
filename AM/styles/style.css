@@ -12,7 +12,6 @@ body{
 	width: 80%;
 	margin: auto;
 	overflow: hidden;
-<<<<<<< HEAD
 }
 
 ul{
@@ -70,71 +69,4 @@ header a:hover{
 	background-attachment: fixed;
 	background-size: cover;
 	height: 100vh;
-=======
-}
-
-ul{
-	margin: 0;
-	padding: 0;
-}
-
-header{
-	background: black;
-	padding-top: 30px;
-	color: white;
-	min-height: 70px;
-	border-bottom: #059305 3px solid;
-}
-
-header a{
-	font-size: 18px;
-	color: white;
-	text-decoration: none;
-	text-transform: uppercase;
-	font-weight: bold;
-}
-
-header li{
-	float: left;
-	display: inline;
-	padding: 0 20px 0 20px;
-}
-
-header nav{
-	float: right;
-	margin-top: 10px;
-}
-
-header .active a{
-	color: #059305;
-	font-weight: bold;
-}
-
-header a:hover{
-	color: #90EE90;
-	font-weight: bold;
-}
-
-/*top navigator*/
-.topNav{
-	width: 80%;
-	margin: auto;
-}
-
-/*home page*/
-#home{
-	background: url("../images/background/dogCatwithOverlay.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
-	height: 85vh;
-}
-
-#home h1{
-	text-align: center;
-	margin-top: 100px;
-	font-size: 130px;
-	margin-bottom: 10px;
-	z-index: 1;
->>>>>>> 70b05a37b76bafafc8d038b393721baf7fce5c2c
 }
