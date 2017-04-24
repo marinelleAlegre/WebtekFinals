@@ -1,0 +1,32 @@
+Pet Services
+
+1. Pet supplies and accessories
+	Provides clothes, costumes, hygienes, grooming tools, bowls and food trays,	
+	beds, leashes, collars, harnesses and pet supplements.
+2. Pet health and foods
+	Provides canned goods, raw foods, dry, frozen cooked, dehydrated and dry foods.
+3. Pet grooming
+	Provides cleaning, nail trimming, sanitary trim, teeth brushing, haircut, blowdry,
+	shampoo, bath, pedicure and ear cleaning.
+4. Pet veterenary services
+	Dentistry, surgeries, prescription medication and diets, deworming, health certificates,
+	vaccination, consultations, senior pet health and confinements for ill patients.
+5. Pet Boarding
+	Day boarding and regular overnight.
+6. Pet photoshoot
+	Photoshoot for pets.
+
+Services Offered:
+
+1. Petcessories
+	Provide accessories and supplies for pets.
+2. HealthyPaws
+	Provide varaties of foods for pets.
+3. PawGroom
+	Provide grooming needs for pets.
+4. PawMed
+	Provide medication for pets.
+5. PetVacay
+	Provide shelter when no one will take care of your pets.
+6. PettyShoot
+	Provide photo services for pets.
