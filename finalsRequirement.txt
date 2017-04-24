@@ -1,0 +1,70 @@
+Group 3 Pet Care
+
+entrepreneur
+	customer
+	avail service
+
+	website connect SP and customers
+
+	customers:
+		search SP
+
+CM
+	search and select
+	request/service (accept or reject or pending)
+	monitoring
+
+	CM---Admin Module----SP
+
+	Status:
+	reject
+	approved
+	pending
+
+	for any module
+	required 3 diff tech.
+		java
+		php
+		option
+		node.js
+		ruby
+		phyton
+		.net -- built--activate iis--web server
+
+public webpage
+	--register (C && SP)
+	--log in (C && SP)
+
+use common database
+
+php ---server
+java -- another server apache tom cat
+
+possible service provide by SP
+	1. Salon Service
+	2. Pet Care
+	3. Home Service
+	4. Training/Tutorial
+
+AM	
+	registration approval
+	user management -------abroad----inactive
+	transaction monitoring
+
+SPM
+	create profile (define services)
+	view, approve/reject request
+	service management
+
+SPM
+	renz
+	cheska
+	mau
+AM
+	marinel
+	dianne
+	crizza
+CM
+	janby
+	jhon rae
+	marinelle
