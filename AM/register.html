@@ -1,40 +1,50 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>Pawgram | Register</title>
-    <link rel="stylesheet" href="styles/general.css">
-    <link rel="stylesheet" href="styles/navigation.css">
-    <Link rel="icon" href="images/icon.png">
+    <link rel="stylesheet" href="styles/style.css" />
+    <Link rel="icon" href="images/pawgram.png" />
+    <Link rel="icon" href="images/pawgram.png">
 </head>
 
 <body>
-<div id = "nav">
-        <nav>
-            <ul class="nav nav-right nav-fixed">
-                <li><a href="about.html">OUR TEAM</a></li>
-                <li><a href="contact.html">CONTACT</a></li>
-                <li><a href="store.html">STORE</a></li>
-                <li><a href="photography.html">PHOTOGRAPHY</a></li>
-                <li><a href="services.html">SERVICES</a></li>
-                
-                </li>
-                <li><a href="index.html">Home</a></li>
-            </ul>
-        </nav>
-</div>
-<div class="main">
-  <div class="login-box">
-    <div class="info">Register</div>
+  <div class="register">
+    <h1>Register</h1>
       <form style="border:1px solid #ccc">
          <div class="container">
+            <label><b>Username</b></label
+            <input type="text" placeholder="Enter Username" name="username" required>
+            <label><b>First Name</b></label>
+            <input type="text" placeholder="Enter First Name" name="fn" required>
+            <label><b>Last Name</b></label>
+            <input type="text" placeholder="Enter Last Name" name="ln" required>
+            <label><b>Contact #</b></label>
+            <input type="text" placeholder="Contact Number" name="contact#" required>
+            <label><b>Address</b></label>
+            <input type="text" placeholder="Address" name="address" required>
+            <label><b>Birthday</b></label>
+            <select id="month">
+                <option value = "default">Month</option>
+                <option value = "1">January</option>
+                <option value = "2">February</option>
+                <option value = "3">March</option>
+                <option value = "4">April</option>
+                <option value = "5">May</option>
+                <option value = "6">June</option>
+                <option value = "7">July</option>
+                <option value = "8">August</option>
+                <option value = "9">September</option>
+                <option value = "10">October</option>
+                <option value = "11">November</option>
+                <option value = "12">December</option>
+            </select>   
+            <input type="text" placeholder="Day" name="daybirth" required><input type="text" placeholder="Year" name="birthyear" required>
+            <label><b>Gender</b></label>
+            <input type="radio" name="gender" value="male" required>Male<br>
+            <input type="radio" name="gender" value="female" required>Female <br>
             <label><b>Email</b></label>
             <input type="text" placeholder="Enter Email" name="email" required>
-
-            <label><b>Password</b></label>
-            <input type="password" placeholder="Enter Password" name="psw" required>
-
             <label><b>Repeat Password</b></label>
             <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
             <input type="checkbox" checked="checked"> Remember me
