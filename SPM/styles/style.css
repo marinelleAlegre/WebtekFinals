@@ -70,6 +70,41 @@ header a:hover{
 	background-size: cover;
 	height: 100vh;
 }
+#about{
+    background: url("../images/background/p1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+#contact{
+    background: url("../images/background/p2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+#photography{
+    background: url("../images/background/p3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+#services{
+    background: url("../images/background/p4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+#store{
+    background: url("../images/background/p5.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
 
 nav ul.nav {
         list-style-type: none;
