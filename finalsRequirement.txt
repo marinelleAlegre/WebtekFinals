@@ -47,9 +47,10 @@ possible service provide by SP
 	4. Training/Tutorial
 
 AM	
-	registration approval
+	registration approval --accept/declined
 	user management -------abroad----inactive
-	transaction monitoring
+			-------
+	transaction monitoring ---- 
 
 SPM
 	create profile (define services)
