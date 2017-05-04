@@ -101,6 +101,13 @@ header a:hover{
     background-size: cover;
     height: 100vh;
 }
+#pawmed{
+    background: url("../images/background/p6.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
 #store{
     background: url("../images/background/p5.jpg");
     background-repeat: no-repeat;
