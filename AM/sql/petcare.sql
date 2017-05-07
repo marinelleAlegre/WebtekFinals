@@ -172,6 +172,8 @@ CREATE TABLE `register` (
   `password` varchar(45) DEFAULT NULL,
   `age` varchar(2) DEFAULT NULL,
   `gender` varchar(1) DEFAULT NULL,
+  `status` varchar(45) DEFAULT NULL,
+  `typeOfuser` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`register_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -347,4 +349,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2017-05-07 15:24:51
+-- Dump completed on 2017-05-07 15:38:58
