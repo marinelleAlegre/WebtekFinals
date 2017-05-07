@@ -1,19 +1,19 @@
 Pet Services
 
-1. Pet supplies and accessories
+1. Pet supplies and accessories (Petcessories)
 	Provides clothes, costumes, hygienes, grooming tools, bowls and food trays,	
 	beds, leashes, collars, harnesses and pet supplements.
-2. Pet health and foods
+2. Pet health and foods (HealthyPaws)
 	Provides canned goods, raw foods, dry, frozen cooked, dehydrated and dry foods.
-3. Pet grooming
+3. Pet grooming (PawGroom)
 	Provides cleaning, nail trimming, sanitary trim, teeth brushing, haircut, blowdry,
 	shampoo, bath, pedicure and ear cleaning.
-4. Pet veterenary services
+4. Pet veterenary services (PawMed)
 	Dentistry, surgeries, prescription medication and diets, deworming, health certificates,
 	vaccination, consultations, senior pet health and confinements for ill patients.
-5. Pet Boarding
+5. Pet Boarding (PetVacay)
 	Day boarding and regular overnight.
-6. Pet photoshoot
+6. Pet photoshoot (PettyShoot)
 	Photoshoot for pets.
 
 Services Offered:
