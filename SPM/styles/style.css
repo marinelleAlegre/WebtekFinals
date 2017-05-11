@@ -47,6 +47,7 @@ header li{
 header nav{
 	float: right;
 	margin-top: 10px;
+
 }
 
 header .active a{
@@ -61,8 +62,12 @@ header a:hover{
 
 h1 {
     float: left;
+    font-family: impact;
 }
 
+nav img .pawgramlogo {
+    float: left;
+}
 /*top navigator*/
 .topNav{
 	width: 80%;
@@ -263,6 +268,8 @@ nav .dropdown:hover .dropdown-content {
     margin-left: 20px;
     margin-right: 20px;
     opacity: 1;
+
+
 }
 
 /* Display the columns below each other instead of side by side on small screens */
@@ -276,6 +283,7 @@ nav .dropdown:hover .dropdown-content {
 /* Add some shadows to create a card effect */
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   
 }
 
 /* Some left and right padding inside the container */
@@ -318,3 +326,39 @@ h2 {
 }
 
 /* END OF OUR TEAM */
+
+/*Healthy Paws*/
+
+#container4 {
+    width: 70%;
+    overflow: hidden;
+    background: #b2f0f9;
+}
+
+#col1 {
+    width: 21%;
+    position: relative;
+    overflow: hidden;
+}
+
+#col2 {
+    width: 21%;
+    position: relative;
+    overflow: hidden;
+}
+
+#col3 {
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+
+#col4 {
+    width: 21%;
+    position: relative;
+    overflow: hidden;
+}
+
+.healthypaws {
+    display: block;
+}
