@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-	width: 80%;
+	width: 97.5%;
 	margin: auto;
 	overflow: hidden;
 }
@@ -96,7 +96,6 @@ h1 {
     height: 100vh;
 }
 #pawmed{
-    background: url("../images/background/p6.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -104,7 +103,6 @@ h1 {
 }
 
 #pawgroom{
-    background: url("../images/background/p10.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
