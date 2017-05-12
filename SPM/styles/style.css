@@ -64,7 +64,7 @@ header a:hover{
 }
 
 h1 {
-    float: left;
+    float: right;
 }
 
 /*top navigator*/
@@ -426,8 +426,12 @@ body {
 }
 
 span {
-    float: right;
+    float: left;
     padding-top: 30px;
+}
+
+p {
+    color:white;
 }
 
 /* END OF NOTIFICATION SLIDE PANEL */
