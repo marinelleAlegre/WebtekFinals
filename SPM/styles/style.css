@@ -6,6 +6,10 @@ body{
 	margin: 0;
 	background-color: white;
 	text-align: center;
+    background: -webkit-linear-gradient(#94cfc9, #69b3c0, #4699b7, #20566e, #183641); /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(#94cfc9, #69b3c0, #4699b7, #20566e, #183641); /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(#94cfc9, #69b3c0, #4699b7, #20566e, #183641); /* For Firefox 3.6 to 15 */
+        background: linear-gradient(to right, #94cfc9, #69b3c0, #4699b7, #20566e, #183641);
 }
 
 .container{
@@ -292,14 +296,6 @@ h2 {
     display: block;
 }
 
-
-
-
-
-body {
-    margin:0;
-    padding:0;
-}
 #header h1,
 #header h2,
 #header p {
@@ -383,3 +379,55 @@ body {
     left:89%;
     overflow:hidden;
 }
+
+/* NOTIFICATION SLIDE PANEL */
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+span {
+    float: right;
+    padding-top: 30px;
+}
+
+/* END OF NOTIFICATION SLIDE PANEL */
